@@ -118,6 +118,11 @@ nav a:hover{
 	width: 7%;
 }
 
+.equipo .icono:hover{
+	border: 2px solid green;
+	border-radius: 9px;
+}
+
 .blog{
 	background: url("../img/fondo2.jpg");
 	background-size: cover;
